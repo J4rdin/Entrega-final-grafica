@@ -1,0 +1,3 @@
+skybox ../../../../../shared/assets/sky-cube-map-
+terrain ../../../../../shared/assets/height-map.png assets/ground.jpg
+cube ../../../../../shared/assets/Stone.jpg
